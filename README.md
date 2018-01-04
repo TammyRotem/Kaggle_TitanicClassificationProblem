@@ -1,4 +1,6 @@
 # Kaggle_TitanicClassificationProblem
-A solution submission to Kaggle's Titanic base competition
+A solution submission to Kaggle's Titanic base competition - A binary classification problem which
+includes a lot of feature engineering and cleaning.
 
-The ipython notebook for the entire work is available here: "https://www.kaggle.com/tammyrotem/who-dies-who-lives-you-decide/"
+The ipython file is a jupyter notebook fully denoted and designed with a walkthrough of the code. 
+View it to see the entire work process.
